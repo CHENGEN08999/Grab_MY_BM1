@@ -1,0 +1,748 @@
+.greenlines-icon,
+.group-icon {
+  width: 112.6px;
+  height: 25.41%;
+  position: absolute;
+  margin: 0 !important;
+  top: 60.3%;
+  bottom: 14.29%;
+  left: calc(50% - 95px);
+  max-height: 100%;
+  z-index: 0;
+}
+.group-icon {
+  height: 48.26%;
+  width: 104px;
+  top: 43.48%;
+  bottom: 8.26%;
+  left: calc(50% - 54.5px);
+}
+.ada-2-minit {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+}
+.benefit-two-time,
+.description-with-bg {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.benefit-two-time {
+  width: 103px;
+  z-index: 1;
+}
+.description-with-bg {
+  height: 23px;
+  padding: 0 2px;
+  box-sizing: border-box;
+  position: relative;
+}
+.leret-untuk-fakta {
+  width: 221px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+}
+.description,
+.description1 {
+  width: 221px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.description {
+  height: 8.8%;
+  margin: 0 !important;
+  position: absolute;
+  top: 85.2%;
+  bottom: 6%;
+  left: calc(50% - 48px);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 0 3px;
+  box-sizing: border-box;
+  gap: var(--gap-11xs);
+  z-index: 1;
+}
+.projek-pemuliharaan-hutan {
+  margin: 0;
+}
+.setiap-10-atau-container {
+  width: 265px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+  display: inline-block;
+}
+.benefit-one,
+.screen1-description {
+  display: flex;
+  justify-content: flex-start;
+}
+.benefit-one {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.screen1-description {
+  width: 310px;
+  height: 9.2%;
+  margin: 0 !important;
+  position: absolute;
+  top: 66.32%;
+  bottom: 24.48%;
+  left: calc(50% - 179px);
+  flex-direction: column;
+  align-items: flex-end;
+  z-index: 2;
+}
+.apabila-anda-memilih {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.inilah-yang-berlaku-container {
+  margin: 0;
+  width: 310px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  line-height: 29px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.title1 {
+  width: 310px;
+  height: 8.7%;
+  margin: 0 !important;
+  position: absolute;
+  top: 51.82%;
+  bottom: 39.48%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 3;
+  font-size: 25px;
+}
+.duit-kecil-anda {
+  margin: 0;
+  height: 200px;
+  width: 358px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.animation1-icon,
+.screen1-title1 {
+  margin: 0 !important;
+  position: absolute;
+}
+.screen1-title1 {
+  width: 358px;
+  height: 20%;
+  top: 4.6%;
+  bottom: 75.4%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 4;
+  font-size: var(--font-size-16xl);
+}
+.animation1-icon {
+  width: 450px;
+  height: 29.19%;
+  top: 22.65%;
+  bottom: 48.16%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 5;
+}
+.screen1 {
+  align-self: stretch;
+  height: 1000px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-27xl) var(--padding-27xl) var(--padding-21xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 313px;
+  background-image: url(./public/screen1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.greenlines-icon1 {
+  width: 298px;
+  height: 73.33%;
+  position: absolute;
+  margin: 0 !important;
+  top: 18.74%;
+  bottom: 7.92%;
+  left: calc(50% - 162px);
+  max-height: 100%;
+  z-index: 0;
+}
+.mereka-bagaikan-keluarga {
+  font-weight: 500;
+}
+.setiap-10-atau {
+  font-weight: 800;
+}
+.dengan-mempertahankannya-kita-container,
+.mereka-bagaikan-keluarga-container {
+  width: 285px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23.82%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 22.5px;
+  display: inline-block;
+  z-index: 1;
+}
+.dengan-mempertahankannya-kita-container {
+  width: 275px;
+  top: 71.56%;
+  line-height: 22px;
+  z-index: 2;
+}
+.tahukah-anda {
+  width: 154px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+}
+.orang-utan-berkongsi-container {
+  margin: 0;
+  align-self: stretch;
+  height: 120px;
+  position: relative;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--color-darkslategray);
+  display: inline-block;
+}
+.screen2-title {
+  width: 358px;
+  height: 13.39%;
+  margin: 0 !important;
+  position: absolute;
+  top: 5.54%;
+  bottom: 81.07%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+  z-index: 3;
+  color: var(--color-forestgreen);
+}
+.group-icon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 116.25px);
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.hutan-hujan-juga,
+.source {
+  margin: 0;
+  font-weight: 500;
+}
+.source {
+  font-weight: 800;
+}
+.hutan-hujan-juga-container {
+  position: absolute;
+  top: 64.63%;
+  left: calc(50% - 89.37px);
+  letter-spacing: -0.01em;
+  line-height: 14px;
+  transform: rotate(6.4deg);
+  transform-origin: 0 0;
+}
+.image {
+  width: 232.5px;
+  height: 24.33%;
+  position: absolute;
+  margin: 0 !important;
+  top: 43.49%;
+  bottom: 32.18%;
+  left: calc(50% - 125px);
+  z-index: 4;
+  font-size: var(--font-size-2xs);
+}
+.animation2-icon,
+.button1-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.button1-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 187.5px;
+  height: 3.85%;
+  top: 92.29%;
+  bottom: 3.86%;
+  left: calc(50% - 8.6px);
+  z-index: 5;
+}
+.animation2-icon {
+  width: 450px;
+  height: 78.86%;
+  top: 16.9%;
+  bottom: 4.25%;
+  left: calc(50% - 225px);
+  z-index: 6;
+}
+.screen2 {
+  align-self: stretch;
+  height: 1083px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-27xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 51px;
+  background-image: url(./public/screen2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.greenlines-icon2 {
+  width: 271.1px;
+  height: 65.19%;
+  position: absolute;
+  margin: 0 !important;
+  top: 27.75%;
+  bottom: 7.06%;
+  left: calc(50% - 169px);
+  max-height: 100%;
+  z-index: 0;
+}
+.dana-anda-juga-container,
+.dengan-memulihara-hutan-container {
+  width: 306px;
+  position: absolute;
+  margin: 0 !important;
+  top: 32.04%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 1;
+}
+.dengan-memulihara-hutan-container {
+  width: 334px;
+  top: 75%;
+  z-index: 2;
+}
+.malaysia-telah-kehilangan,
+.tahukah-anda1 {
+  width: 160px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+}
+.malaysia-telah-kehilangan {
+  margin: 0;
+  width: 322px;
+  height: 240px;
+  font-size: var(--font-size-16xl);
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--color-darkslategray);
+}
+.screen3-title {
+  width: 358px;
+  height: 22.67%;
+  margin: 0 !important;
+  position: absolute;
+  top: 5.24%;
+  bottom: 72.09%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1px;
+  z-index: 3;
+  color: var(--color-forestgreen);
+}
+.group-icon3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 123.65px);
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.jika-anda-belum {
+  font-weight: 500;
+}
+.jika-anda-belum,
+.span {
+  font-family: var(--font-inter);
+}
+.hutan-bakau-belawai-container {
+  position: absolute;
+  top: 63.53%;
+  left: calc(50% - 104.13px);
+  letter-spacing: -0.01em;
+  line-height: 14px;
+  transform: rotate(11.8deg);
+  transform-origin: 0 0;
+}
+.image2 {
+  width: 247.3px;
+  height: 22.31%;
+  position: absolute;
+  margin: 0 !important;
+  top: 47.42%;
+  bottom: 30.27%;
+  left: calc(50% - 136px);
+  z-index: 4;
+  font-size: var(--font-size-2xs);
+}
+.animation3-icon,
+.button2-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.button2-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 187.5px;
+  height: 3.58%;
+  top: 93.2%;
+  bottom: 3.21%;
+  left: calc(50% - 8.4px);
+  z-index: 5;
+}
+.animation3-icon {
+  width: 450px;
+  height: 57.28%;
+  top: 42.7%;
+  bottom: 0.03%;
+  left: calc(50% - 225px);
+  display: none;
+  z-index: 6;
+}
+.screen3 {
+  align-self: stretch;
+  height: 1164px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-27xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 48px;
+  background-image: url(./public/screen3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.dan-bukan-itu,
+.program-hijau-menyokong-container {
+  position: absolute;
+  margin: 0 !important;
+  left: calc(50% - 179px);
+  display: inline-block;
+}
+.dan-bukan-itu {
+  width: 342px;
+  height: 240px;
+  top: 8.55%;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 0;
+}
+.program-hijau-menyokong-container {
+  width: 315px;
+  top: 60.24%;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  min-width: 315px;
+  z-index: 1;
+}
+.screen4tophalf {
+  align-self: stretch;
+  height: 503px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-27xl) var(--padding-27xl) 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-3xs);
+  background-image: url(./public/screen4tophalf@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.boleh-anda-teka {
+  width: 332px;
+  position: absolute;
+  margin: 0 !important;
+  top: 26.11%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 800;
+  display: inline-block;
+  z-index: 0;
+}
+.di-sini {
+  text-decoration: underline;
+}
+.program-hijau {
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.lihat-bagaimana-sumbangan-container {
+  width: 247px;
+  position: absolute;
+  margin: 0 !important;
+  top: 70.19%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+  z-index: 1;
+}
+.pop-kuiz {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+}
+.sejak-tahun-2021 {
+  width: 324px;
+  position: relative;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+  display: inline-block;
+}
+.screen5-title {
+  width: 358px;
+  height: 12.58%;
+  margin: 0 !important;
+  position: absolute;
+  top: 4.23%;
+  bottom: 83.19%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 2;
+  font-size: var(--font-size-16xl);
+}
+.button3-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 224.2px;
+  height: 6.13%;
+  margin: 0 !important;
+  top: 90.95%;
+  bottom: 2.92%;
+  left: calc(50% - 45.3px);
+  z-index: 3;
+}
+.button3-icon,
+.greenlines-icon3,
+.group-icon2 {
+  position: absolute;
+  max-height: 100%;
+}
+.greenlines-icon3 {
+  width: 279.2px;
+  height: 73.38%;
+  margin: 0 !important;
+  top: 17.23%;
+  bottom: 9.39%;
+  left: calc(50% - 157px);
+  z-index: 4;
+}
+.group-icon2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 124.8px);
+  width: 100%;
+  object-fit: cover;
+}
+.juta-pohon-batang-container {
+  position: absolute;
+  top: 64.79%;
+  left: calc(50% - 85.91px);
+  line-height: 23px;
+  font-weight: 800;
+  display: inline-block;
+  width: 173.3px;
+  transform: rotate(11.4deg);
+  transform-origin: 0 0;
+}
+.animation4-icon,
+.image3 {
+  position: absolute;
+  margin: 0 !important;
+}
+.image3 {
+  width: 249.6px;
+  height: 28.22%;
+  top: 35.41%;
+  bottom: 36.36%;
+  left: calc(50% - 141px);
+  z-index: 5;
+  font-size: 21px;
+  color: var(--color-darkslategray);
+}
+.animation4-icon {
+  width: 449.6px;
+  height: 35.2%;
+  top: 30.76%;
+  bottom: 34.04%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 6;
+}
+.screen4bottomhalf {
+  align-self: stretch;
+  height: 946px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-27xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 69px;
+  background-image: url(./public/screen4bottomhalf@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.national-institutes-of {
+  margin: 0;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.source-national-institutes-container {
+  width: 239px;
+  position: absolute;
+  margin: 0 !important;
+  top: 17.89%;
+  left: calc(50% - 180px);
+  letter-spacing: -0.02em;
+  line-height: 14px;
+  display: inline-block;
+  z-index: 0;
+}
+.grab-my-bm,
+.last-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.last-frame {
+  align-self: stretch;
+  height: 95px;
+  flex-direction: row;
+  padding: 25px 28px;
+  box-sizing: border-box;
+  position: relative;
+  background-image: url(./public/last-frame@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.grab-my-bm {
+  width: 450px;
+  max-width: 800px;
+  flex-direction: column;
+  min-width: 360px;
+  line-height: normal;
+  letter-spacing: normal;
+}
