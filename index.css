@@ -75,64 +75,35 @@
 }
 .setiap-10-atau-container {
   width: 265px;
-  position: relative;
+  height: 92px;
+  position: absolute;
+  margin: 0 !important;
+  top: 66.32%;
+  left: calc(50% - 180px);
   letter-spacing: -0.01em;
   line-height: 23px;
   font-weight: 500;
   display: inline-block;
-}
-.benefit-one,
-.screen1-description {
-  display: flex;
-  justify-content: flex-start;
-}
-.benefit-one {
-  align-self: stretch;
-  flex-direction: row;
-  align-items: center;
-}
-.screen1-description {
-  width: 310px;
-  height: 9.2%;
-  margin: 0 !important;
-  position: absolute;
-  top: 66.32%;
-  bottom: 24.48%;
-  left: calc(50% - 179px);
-  flex-direction: column;
-  align-items: flex-end;
   z-index: 2;
 }
-.apabila-anda-memilih {
-  margin: 0;
-  white-space: pre-wrap;
-}
+.duit-kecil-anda,
 .inilah-yang-berlaku-container {
-  margin: 0;
-  width: 310px;
-  position: relative;
-  font-size: inherit;
-  letter-spacing: 0.02em;
-  line-height: 29px;
   font-weight: 800;
   font-family: inherit;
   display: inline-block;
-  flex-shrink: 0;
 }
-.title1 {
-  width: 310px;
-  height: 8.7%;
+.inilah-yang-berlaku-container {
   margin: 0 !important;
+  width: 283px;
+  height: 87px;
   position: absolute;
-  top: 51.82%;
-  bottom: 39.48%;
-  left: calc(50% - 179px);
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-  z-index: 3;
+  top: 51.8%;
+  left: calc(50% - 180px);
   font-size: 25px;
+  letter-spacing: 0.02em;
+  line-height: 29px;
+  white-space: pre-wrap;
+  z-index: 3;
 }
 .duit-kecil-anda {
   margin: 0;
@@ -142,9 +113,6 @@
   font-size: inherit;
   letter-spacing: 0.01em;
   line-height: 40px;
-  font-weight: 800;
-  font-family: inherit;
-  display: inline-block;
 }
 .animation1-icon,
 .screen1-title1 {
@@ -156,7 +124,7 @@
   height: 20%;
   top: 4.6%;
   bottom: 75.4%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -218,7 +186,7 @@
   position: absolute;
   margin: 0 !important;
   top: 23.82%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   letter-spacing: -0.01em;
   line-height: 22.5px;
   display: inline-block;
@@ -257,7 +225,7 @@
   position: absolute;
   top: 5.54%;
   bottom: 81.07%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -369,7 +337,7 @@
   position: absolute;
   margin: 0 !important;
   top: 32.04%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   letter-spacing: -0.01em;
   line-height: 22px;
   display: inline-block;
@@ -406,7 +374,7 @@
   position: absolute;
   top: 5.24%;
   bottom: 72.09%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -476,7 +444,6 @@
   top: 42.7%;
   bottom: 0.03%;
   left: calc(50% - 225px);
-  display: none;
   z-index: 6;
 }
 .screen3 {
@@ -503,7 +470,7 @@
 .program-hijau-menyokong-container {
   position: absolute;
   margin: 0 !important;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   display: inline-block;
 }
 .dan-bukan-itu {
@@ -545,17 +512,63 @@
   color: var(--color-darkslategray);
   font-family: var(--font-inter);
 }
-.boleh-anda-teka {
-  width: 332px;
+.greenlines-icon3,
+.group-icon2 {
+  position: absolute;
+  max-height: 100%;
+}
+.greenlines-icon3 {
+  width: 279.2px;
+  height: 73.38%;
+  margin: 0 !important;
+  top: 17.23%;
+  bottom: 9.39%;
+  left: calc(50% - 157px);
+  z-index: 0;
+}
+.group-icon2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 124.8px);
+  width: 100%;
+  object-fit: cover;
+}
+.juta-pohon-batang-container {
+  position: absolute;
+  top: 64.79%;
+  left: calc(50% - 85.91px);
+  line-height: 23px;
+  font-weight: 800;
+  display: inline-block;
+  width: 160.2px;
+  transform: rotate(11.4deg);
+  transform-origin: 0 0;
+}
+.boleh-anda-teka,
+.image3 {
   position: absolute;
   margin: 0 !important;
+}
+.image3 {
+  width: 249.6px;
+  height: 28.22%;
+  top: 35.41%;
+  bottom: 36.36%;
+  left: calc(50% - 141px);
+  z-index: 1;
+  font-size: 21px;
+  color: var(--color-darkslategray);
+}
+.boleh-anda-teka {
+  width: 332px;
   top: 26.11%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   letter-spacing: -0.01em;
   line-height: 23px;
   font-weight: 800;
   display: inline-block;
-  z-index: 0;
+  z-index: 2;
 }
 .di-sini {
   text-decoration: underline;
@@ -569,11 +582,11 @@
   position: absolute;
   margin: 0 !important;
   top: 70.19%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   letter-spacing: -0.01em;
   line-height: 23px;
   display: inline-block;
-  z-index: 1;
+  z-index: 3;
 }
 .pop-kuiz {
   margin: 0;
@@ -600,14 +613,20 @@
   position: absolute;
   top: 4.23%;
   bottom: 83.19%;
-  left: calc(50% - 179px);
+  left: calc(50% - 180px);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-3xs);
-  z-index: 2;
+  z-index: 4;
   font-size: var(--font-size-16xl);
+}
+.animation4-icon,
+.button3-icon {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
 }
 .button3-icon {
   cursor: pointer;
@@ -616,60 +635,10 @@
   background-color: transparent;
   width: 224.2px;
   height: 6.13%;
-  margin: 0 !important;
   top: 90.95%;
   bottom: 2.92%;
   left: calc(50% - 45.3px);
-  z-index: 3;
-}
-.button3-icon,
-.greenlines-icon3,
-.group-icon2 {
-  position: absolute;
-  max-height: 100%;
-}
-.greenlines-icon3 {
-  width: 279.2px;
-  height: 73.38%;
-  margin: 0 !important;
-  top: 17.23%;
-  bottom: 9.39%;
-  left: calc(50% - 157px);
-  z-index: 4;
-}
-.group-icon2 {
-  height: 100%;
-  top: 0;
-  bottom: 0;
-  left: calc(50% - 124.8px);
-  width: 100%;
-  object-fit: cover;
-}
-.juta-pohon-batang-container {
-  position: absolute;
-  top: 64.79%;
-  left: calc(50% - 85.91px);
-  line-height: 23px;
-  font-weight: 800;
-  display: inline-block;
-  width: 173.3px;
-  transform: rotate(11.4deg);
-  transform-origin: 0 0;
-}
-.animation4-icon,
-.image3 {
-  position: absolute;
-  margin: 0 !important;
-}
-.image3 {
-  width: 249.6px;
-  height: 28.22%;
-  top: 35.41%;
-  bottom: 36.36%;
-  left: calc(50% - 141px);
   z-index: 5;
-  font-size: 21px;
-  color: var(--color-darkslategray);
 }
 .animation4-icon {
   width: 449.6px;
@@ -677,7 +646,6 @@
   top: 30.76%;
   bottom: 34.04%;
   left: calc(50% - 225px);
-  max-height: 100%;
   z-index: 6;
 }
 .screen4bottomhalf {
