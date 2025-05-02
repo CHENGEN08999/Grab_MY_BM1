@@ -1,5 +1,5 @@
-.greenlines-icon,
-.group-icon {
+.greenbg-icon,
+.greenlines-icon {
   width: 112.6px;
   height: 25.41%;
   position: absolute;
@@ -10,12 +10,13 @@
   max-height: 100%;
   z-index: 0;
 }
-.group-icon {
-  height: 48.26%;
+.greenbg-icon {
   width: 104px;
-  top: 43.48%;
-  bottom: 8.26%;
-  left: calc(50% - 54.5px);
+  height: 1.11%;
+  top: 86.2%;
+  bottom: 12.69%;
+  left: calc(50% - 46px);
+  z-index: 1;
 }
 .ada-2-minit {
   position: relative;
@@ -32,13 +33,11 @@
 }
 .benefit-two-time {
   width: 103px;
-  z-index: 1;
 }
 .description-with-bg {
   height: 23px;
   padding: 0 2px;
   box-sizing: border-box;
-  position: relative;
 }
 .leret-untuk-fakta {
   width: 221px;
@@ -68,7 +67,7 @@
   padding: 0 0 0 3px;
   box-sizing: border-box;
   gap: var(--gap-11xs);
-  z-index: 1;
+  z-index: 2;
 }
 .projek-pemuliharaan-hutan {
   margin: 0;
@@ -84,7 +83,7 @@
   line-height: 23px;
   font-weight: 500;
   display: inline-block;
-  z-index: 2;
+  z-index: 3;
 }
 .duit-kecil-anda,
 .inilah-yang-berlaku-container {
@@ -94,7 +93,7 @@
 }
 .inilah-yang-berlaku-container {
   margin: 0 !important;
-  width: 283px;
+  width: 294px;
   height: 87px;
   position: absolute;
   top: 51.8%;
@@ -102,8 +101,7 @@
   font-size: 25px;
   letter-spacing: 0.02em;
   line-height: 29px;
-  white-space: pre-wrap;
-  z-index: 3;
+  z-index: 4;
 }
 .duit-kecil-anda {
   margin: 0;
@@ -129,7 +127,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  z-index: 4;
+  z-index: 5;
   font-size: var(--font-size-16xl);
 }
 .animation1-icon {
@@ -139,7 +137,7 @@
   bottom: 48.16%;
   left: calc(50% - 225px);
   max-height: 100%;
-  z-index: 5;
+  z-index: 6;
 }
 .screen1 {
   align-self: stretch;
@@ -177,7 +175,7 @@
 .mereka-bagaikan-keluarga {
   font-weight: 500;
 }
-.setiap-10-atau {
+.apabila-anda-memilih {
   font-weight: 800;
 }
 .dengan-mempertahankannya-kita-container,
@@ -383,7 +381,7 @@
   z-index: 3;
   color: var(--color-forestgreen);
 }
-.group-icon3 {
+.group-icon {
   position: absolute;
   height: 100%;
   top: 0;
