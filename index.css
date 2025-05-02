@@ -175,7 +175,7 @@
 .mereka-bagaikan-keluarga {
   font-weight: 500;
 }
-.apabila-anda-memilih {
+.projek-pemuliharaan-hutan {
   font-weight: 800;
 }
 .dengan-mempertahankannya-kita-container,
@@ -195,42 +195,6 @@
   top: 71.56%;
   line-height: 22px;
   z-index: 2;
-}
-.tahukah-anda {
-  width: 154px;
-  position: relative;
-  letter-spacing: -0.01em;
-  line-height: 23px;
-  display: inline-block;
-}
-.orang-utan-berkongsi-container {
-  margin: 0;
-  align-self: stretch;
-  height: 120px;
-  position: relative;
-  font-size: var(--font-size-16xl);
-  letter-spacing: 0.01em;
-  line-height: 40px;
-  font-weight: 800;
-  font-family: inherit;
-  color: var(--color-darkslategray);
-  display: inline-block;
-}
-.screen2-title {
-  width: 358px;
-  height: 13.39%;
-  margin: 0 !important;
-  position: absolute;
-  top: 5.54%;
-  bottom: 81.07%;
-  left: calc(50% - 180px);
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-11xs);
-  z-index: 3;
-  color: var(--color-forestgreen);
 }
 .group-icon1 {
   position: absolute;
@@ -267,7 +231,7 @@
   top: 43.49%;
   bottom: 32.18%;
   left: calc(50% - 125px);
-  z-index: 4;
+  z-index: 3;
   font-size: var(--font-size-2xs);
 }
 .animation2-icon,
@@ -286,7 +250,7 @@
   top: 92.29%;
   bottom: 3.86%;
   left: calc(50% - 8.6px);
-  z-index: 5;
+  z-index: 4;
 }
 .animation2-icon {
   width: 450px;
@@ -294,17 +258,51 @@
   top: 16.9%;
   bottom: 4.25%;
   left: calc(50% - 225px);
+  z-index: 5;
+}
+.orang-utan-berkongsi,
+.tahukah-anda {
+  width: 154px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+}
+.orang-utan-berkongsi {
+  margin: 0;
+  width: 275px;
+  height: 120px;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--color-darkslategray);
+}
+.screen2,
+.screen2-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.screen2-title {
+  width: 275px;
+  height: 13.3%;
+  margin: 0 !important;
+  position: absolute;
+  top: 5.72%;
+  bottom: 80.98%;
+  left: calc(50% - 180px);
+  gap: var(--gap-11xs);
   z-index: 6;
+  color: var(--color-forestgreen);
 }
 .screen2 {
   align-self: stretch;
   height: 1083px;
   overflow: hidden;
   flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
   padding: var(--padding-41xl) var(--padding-27xl);
   box-sizing: border-box;
   position: relative;
@@ -393,18 +391,17 @@
 }
 .jika-anda-belum {
   font-weight: 500;
-}
-.jika-anda-belum,
-.span {
   font-family: var(--font-inter);
 }
 .hutan-bakau-belawai-container {
   position: absolute;
-  top: 63.53%;
-  left: calc(50% - 104.13px);
+  top: 165.8px;
+  left: 19.31px;
   letter-spacing: -0.01em;
   line-height: 14px;
-  transform: rotate(11.8deg);
+  display: inline-block;
+  width: 193.7px;
+  transform: rotate(11.4deg);
   transform-origin: 0 0;
 }
 .image2 {
@@ -442,6 +439,7 @@
   top: 42.7%;
   bottom: 0.03%;
   left: calc(50% - 225px);
+  display: none;
   z-index: 6;
 }
 .screen3 {
@@ -534,13 +532,11 @@
 }
 .juta-pohon-batang-container {
   position: absolute;
-  top: 64.79%;
-  left: calc(50% - 85.91px);
+  top: 63.94%;
+  left: calc(50% - 86.27px);
   line-height: 23px;
   font-weight: 800;
-  display: inline-block;
-  width: 160.2px;
-  transform: rotate(11.4deg);
+  transform: rotate(11.8deg);
   transform-origin: 0 0;
 }
 .boleh-anda-teka,
